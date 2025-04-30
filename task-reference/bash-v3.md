@@ -166,7 +166,7 @@ Don't load the system-wide startup file `/etc/profile` or any of the personal in
 <!-- :::item name="noRc"::: -->
 :::moniker range="<=azure-pipelines-2020.1"
 
-**`noRc`** - **Don't read the `~/.bashrc' initialization file**<br>
+**`noRc`** - **Don't read the `~/.bashrc` initialization file**<br>
 `boolean`. Default value: `true`.<br>
 <!-- :::editable-content name="helpMarkDown"::: -->
 <!-- :::editable-content-end::: -->
